@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/pwebapp/static/css/main.48db2c47.chunk.css",
+    "main.js": "/pwebapp/static/js/main.17c8a6e7.chunk.js",
+    "main.js.map": "/pwebapp/static/js/main.17c8a6e7.chunk.js.map",
+    "runtime-main.js": "/pwebapp/static/js/runtime-main.c127f632.js",
+    "runtime-main.js.map": "/pwebapp/static/js/runtime-main.c127f632.js.map",
+    "static/js/2.bbd5e602.chunk.js": "/pwebapp/static/js/2.bbd5e602.chunk.js",
+    "static/js/2.bbd5e602.chunk.js.map": "/pwebapp/static/js/2.bbd5e602.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/pwebapp/static/css/3.00373544.chunk.css",
+    "static/js/3.3f7d2c05.chunk.js": "/pwebapp/static/js/3.3f7d2c05.chunk.js",
+    "static/js/3.3f7d2c05.chunk.js.map": "/pwebapp/static/js/3.3f7d2c05.chunk.js.map",
+    "static/css/4.a922a401.chunk.css": "/pwebapp/static/css/4.a922a401.chunk.css",
+    "static/js/4.bfe11bd1.chunk.js": "/pwebapp/static/js/4.bfe11bd1.chunk.js",
+    "static/js/4.bfe11bd1.chunk.js.map": "/pwebapp/static/js/4.bfe11bd1.chunk.js.map",
+    "index.html": "/pwebapp/index.html",
+    "precache-manifest.1c8878a58501fba0ec61e1f2267e14b0.js": "/pwebapp/precache-manifest.1c8878a58501fba0ec61e1f2267e14b0.js",
+    "service-worker.js": "/pwebapp/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/pwebapp/static/css/3.00373544.chunk.css.map",
+    "static/css/4.a922a401.chunk.css.map": "/pwebapp/static/css/4.a922a401.chunk.css.map",
+    "static/css/main.48db2c47.chunk.css.map": "/pwebapp/static/css/main.48db2c47.chunk.css.map",
+    "static/media/index.css": "/pwebapp/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/pwebapp/static/media/airbnbLogo.c59720d6.png",
+    "static/media/clockGear.svg": "/pwebapp/static/media/clockGear.d622c007.svg",
+    "static/media/codeInLogo.webp": "/pwebapp/static/media/codeInLogo.47a7a717.webp",
+    "static/media/facebookLogo.png": "/pwebapp/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/googleAssistantLogo.webp": "/pwebapp/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/logo.svg": "/pwebapp/static/media/logo.25bf045c.svg",
+    "static/media/nextuLogo.webp": "/pwebapp/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/pwebapp/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/quoraLogo.png": "/pwebapp/static/media/quoraLogo.4b2938b9.png",
+    "static/media/saayaHealthLogo.webp": "/pwebapp/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/TalkCard.css": "/pwebapp/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c127f632.js",
+    "static/js/2.bbd5e602.chunk.js",
+    "static/css/main.48db2c47.chunk.css",
+    "static/js/main.17c8a6e7.chunk.js"
+  ]
+}
